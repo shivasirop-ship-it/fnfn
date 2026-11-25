@@ -1,0 +1,6 @@
+{
+  "name": "DQR — Dijan Quiz Rankings",
+  "description": "Dijan Quiz Rankings (DQR): daily academic quiz mastery, district-level Hall of Fame archives, standings, and external competition records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
